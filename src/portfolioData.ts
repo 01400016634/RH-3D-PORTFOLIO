@@ -1,4 +1,4 @@
-import { Layers, Database, BarChart3, Terminal } from "lucide-react";
+import { Layers, BarChart3, Terminal } from "lucide-react";
 
 export const PORTFOLIO_DATA = {
   hero: {
@@ -62,7 +62,7 @@ export const PORTFOLIO_DATA = {
     }
   ],
   pipeline: [
-    "01 IDEA [START]", "02 DISCOVER", "03 DEFINE", "04 DESIGN", 
+    "01 IDEA [START]", "02 DISCOVER", "03 DEFINE", "04 DESIGN",
     "05 BUILD", "06 AI API INTEGRATION", "07 TEST", "08 SHIP [LIVE]"
   ],
   contact: {
