@@ -117,13 +117,20 @@ export const portfolioData = {
       ]
     },
     {
-      title: "Field Data Enumerator & Humanitarian Monitor",
-      company: "Helios Consultancy & World Vision Bangladesh",
-      period: "2018 – 2022",
+      title: "Field Data Enumerator",
+      company: "Helios Consultancy",
+      period: "06/2022 – 12/2022",
       bullets: [
-        "Helios Consultancy (06/2022 – 12/2022): Conducted Android-based household surveys using KoboToolbox across 5 districts, meeting daily operation quotas.",
-        "Conducted Key Informant Interviews (KII) and collected audio/video outcome stories, producing clean datasets and draft reports with visual infographics.",
-        "World Vision Bangladesh (06/2018 – 06/2019): Executed field monitoring for humanitarian projects, conducting household visits, KIIs, and Focus Group Discussions (FGD)."
+        "Conducted Android-based household surveys using KoboToolbox across 5 districts, meeting daily operation quotas.",
+        "Conducted Key Informant Interviews (KII) and collected audio/video outcome stories, producing clean datasets and draft reports with visual infographics."
+      ]
+    },
+    {
+      title: "Humanitarian Monitor",
+      company: "World Vision Bangladesh",
+      period: "06/2018 – 06/2019",
+      bullets: [
+        "Executed field monitoring for humanitarian projects, conducting household visits, KIIs, and Focus Group Discussions (FGD)."
       ]
     },
     {
